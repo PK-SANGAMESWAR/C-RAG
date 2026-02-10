@@ -1,0 +1,9 @@
+langchain>=1.2.9
+langchain-community>=0.4.1
+langchain-ollama>=1.0.1
+langgraph>=1.0.8
+faiss-cpu>=1.13.2
+pypdf>=5.0.0
+python-dotenv>=1.0.0
+tavily-python>=0.3.0
+ipykernel>=6.0.0
